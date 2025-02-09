@@ -1,0 +1,7 @@
+rev/javascryption : You wake up alone in a dark cabin, held captive by a bushy-haired man demanding you submit a "flag" to leave. Can you escape?
+
+
+
+So we have to enter the flag, interesting, checking the source code we see a very familiar string. Its a base85 string.
+
+Putting that into cyberchef and doing a little bit of tinkering gives us the flag lactf{no_grizzly_walls_here}
